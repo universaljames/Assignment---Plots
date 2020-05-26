@@ -1,7 +1,7 @@
-This assginment finished by Xiong ZHAO.
+This assginment resubmit by Xiong ZHAO.
 
-Please run plot1.R to plot4.R in order.
+Plot4 graphic added.
 
-All of the data was processed in plot1.R and other R codes only draw the pictures.
+Txt data loding and processing codes has been put for the 4 R codes.
 
 Have fun! Thanks!
